@@ -1,4 +1,4 @@
-# Medical-strore-management-system
+#Pharmacy-Management-System
 Here is the cpp  project based on the pharmacy management system
 
 This  project includes 5 methods like 
